@@ -26,7 +26,7 @@ da loja e usando o endpoint que está disponivel na APi para colocar no site.
 
 ## Demonstração do site
 
-[https://marciorso20.github.io/DesafioCriandoFormulario/](https://github.com/marciorso20/ignite-shop)
+[(https://github.com/marciorso20/ignite-shop)]
 
 
 ## 🔗 Links
