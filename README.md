@@ -11,7 +11,7 @@ Criação do template utilizando o Nextjs e o Stripe para uma loja virtual simpl
 - Nextjs
 - API Stripe
 - Typescript
-- stitches(CSS)
+- Stitches(CSS)
 
 
 ## Aprendizados
