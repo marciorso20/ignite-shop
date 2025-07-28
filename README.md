@@ -1,3 +1,4 @@
+
 # Projeto de Loja Ignite Shop
 Projeto criado na aula da Rocketseat
 
@@ -21,8 +22,7 @@ da loja e usando o endpoint que está disponivel na APi para colocar no site.
 
 ### Screenshots
 
-![App Screenshot](<img width="1125" height="598" alt="image" src="https://github.com/user-attachments/assets/f441488b-ccba-41f3-aa28-f534554b4746" />
-)
+![App Screenshot](<img width="1073" height="537" alt="igniteshop" src="https://github.com/user-attachments/assets/9cfe0fe4-829a-49bf-8e24-458e65c550f2" />)
 
 ## Demonstração do site
 
